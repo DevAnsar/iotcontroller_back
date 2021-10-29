@@ -12,12 +12,9 @@ Create the .env file and added DB_CONNECTION variable to connect to the mongoDB 
 Exactly something like this: DB_CONNECTION=mongodb://<user>:<password>@etc-xxx.mongodb.net/...
 
 ### `npm install`
-
-Runs the app in the development mode.\
-Open [http://localhost:8080](http://localhost:8080) to run it in the browser.
-
+Install the required packages
 
 
 ### `npm start`
-
-stert project
+Runs the app in the development mode.\
+Open [http://localhost:8080](http://localhost:8080) to run it in the browser.
